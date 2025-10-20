@@ -1,7 +1,5 @@
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="100%" viewBox="0 0 848 656" enable-background="new 0 0 848 656" xml:space="preserve">
-<path fill="#000000" opacity="1.000000" stroke="none" transform="scale(1, -1) translate(0, -100)"
-	d="
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100%" viewBox="0 0 848 656" enable-background="new 0 0 848 656" xml:space="preserve" transform="matrix(-1,0,0,1,0,0)">
+<path fill="#000000" opacity="1.000000" stroke="none" d="
 M172.940002,225.969528 
 	C169.996475,219.576172 167.415512,213.419998 164.377609,207.498230 
 	C161.389313,201.673126 160.752640,195.751938 162.721481,189.622452 
@@ -59,5 +57,5 @@ M172.940002,225.969528
 	C213.825439,345.546600 217.546021,336.532349 222.753281,328.090698 
 	C224.448639,325.342285 222.464737,323.296570 221.390244,321.180237 
 	C205.326279,289.540375 189.207962,257.928131 172.940002,225.969528 
-z"/>
+z"></path>
 </svg>
